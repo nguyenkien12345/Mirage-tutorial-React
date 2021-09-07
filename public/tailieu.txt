@@ -1,0 +1,2 @@
+1) Tạo Project: npx create-react-app mirage-tut --template clean-cra
+2) Sau đó cài các thư viện: npm i miragejs -D, npm i bootstrap@next, npm i @popperjs/core
